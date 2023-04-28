@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.7
-    - dbt-core >=1.4.0,<1.5.0
+    - dbt-core >=1.5.0,<1.6.0
     - sqlparams >=3.0.0
 
 test:
